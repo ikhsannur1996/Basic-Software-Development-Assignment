@@ -1,7 +1,3 @@
-Certainly! Here's a refined version of your assignment prompt:
-
----
-
 # Assignment: API Documentation and Integration Guide/Strategy
 
 As the Product Manager for an e-commerce startup, your task is to integrate the payment gateway service provided by Midtrans into your platform. Follow these steps to complete the assignment:
