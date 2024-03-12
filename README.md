@@ -20,7 +20,9 @@ As the Product Manager for an e-commerce startup, your task is to integrate the 
 
 ## Deliverables
 
-**Document**: Prepare a detailed document containing your integration strategy report (Overview and Summary of API, Function and Implementation Planning, Functions of Midtrans APIs, Implementation Planning, Pros and Cons, What to be Aware of, Considerations and Consulsion).
+**Slide Presentation**: Here's the updated paragraph with the note included:
+
+Prepare a detailed presentation containing your integration strategy report. Note that detailed does not mean there must be a lot of text description. Just make it simple, clear, and easy to understand. **This report should include an overview and summary of the API, function, and implementation planning. It should cover the functions of Midtrans APIs, implementation planning, pros and cons, what to be aware of, considerations, and conclusion.** You can add illustrations to make your integration strategy easy to understand.
 
 ## Evaluation Criteria
 
