@@ -20,7 +20,29 @@ As the Product Manager for an e-commerce startup, your task is to integrate the 
 
 ## Deliverables
 
-**Slide Presentation**: Prepare a detailed presentation containing your integration strategy report. Note that detailed does not mean there must be a lot of text description. Just make it simple, clear, and easy to understand. **This report should include an overview and summary of the API, function, and implementation planning. It should cover the functions of Midtrans APIs, implementation planning, pros and cons, what to be aware of, considerations, and conclusion.** You can add illustrations to make your integration strategy easy to understand.
+- **Integration Strategy Slide Presentation**:
+   - **Overview of Midtrans APIs**
+     - Introduction to Midtrans payment gateway
+     - Brief description of available APIs
+   - **Functionality and Implementation Planning**
+     - Explanation of each API's functionality
+     - Step-by-step integration plan for each API
+   - **Pros and Cons Analysis**
+     - Evaluation of advantages and disadvantages of integrating Midtrans APIs
+     - Consideration of factors such as security, reliability, scalability, and ease of implementation
+   - **Key Considerations**
+     - Identification of specific challenges and considerations for integration
+     - Proposed solutions or mitigation strategies
+   - **Conclusion and Recommendations**
+     - Summary of integration strategy
+     - Recommendations for optimizing the integration process and overcoming challenges
+
+## Additional Notes:
+
+- Keep the presentation simple, clear, and easy to understand.
+- Utilize illustrations or diagrams to enhance comprehension.
+- Ensure the presentation covers all aspects outlined in the assignment instructions.
+- Aim for concise and informative slides to maintain audience engagement.
 
 ## Evaluation Criteria
 
