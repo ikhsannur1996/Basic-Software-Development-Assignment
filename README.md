@@ -28,8 +28,8 @@ As the Product Manager for an e-commerce startup, your task is to integrate the 
      - Explanation of API functionality (Select one that you understand)
      - Step-by-step integration plan for the API
    - **Sample API Usage**
-     - Screenshot
-     - Description of usage
+      - Screenshot: Include a screenshot demonstrating the usage of the API.
+      - Description of Usage: Provide a description explaining how the API is utilized in your integration
    - **Pros and Cons Analysis**
      - Evaluation of advantages and disadvantages of integrating Midtrans APIs
      - Consideration of factors such as security, reliability, scalability, and ease of implementation
