@@ -25,8 +25,11 @@ As the Product Manager for an e-commerce startup, your task is to integrate the 
      - Introduction to Midtrans payment gateway
      - Brief description of available APIs
    - **Functionality and Implementation Planning**
-     - Explanation of each API's functionality
-     - Step-by-step integration plan for each API
+     - Explanation of API functionality (Select one that you understand)
+     - Step-by-step integration plan for the API
+   - **Sample API Usage**
+     - Screenshot
+     - Description of usage
    - **Pros and Cons Analysis**
      - Evaluation of advantages and disadvantages of integrating Midtrans APIs
      - Consideration of factors such as security, reliability, scalability, and ease of implementation
