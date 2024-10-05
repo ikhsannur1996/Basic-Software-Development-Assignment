@@ -5,9 +5,10 @@ As the Product Manager for an e-commerce startup, your task is to integrate the 
 ## Instructions
 
 1. **Review Midtrans API Documentation**: Begin by thoroughly reviewing the provided API documentation for the Midtrans Payment Gateway. You can access the documentation [https://docs.midtrans.com/](https://docs.midtrans.com/).
-https://docs.midtrans.com/docs/payment-overview
-https://demo.midtrans.com/
-https://docs.midtrans.com/docs/midtrans-account
+
+- https://docs.midtrans.com/docs/payment-overview
+- https://demo.midtrans.com/
+- https://docs.midtrans.com/docs/midtrans-account
 
 3. **Develop Integration Plan**: Based on the documentation, develop a comprehensive plan for integrating the Midtrans APIs into your e-commerce platform and project management system.
 
