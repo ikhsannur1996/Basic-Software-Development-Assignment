@@ -5,14 +5,17 @@ As the Product Manager for an e-commerce startup, your task is to integrate the 
 ## Instructions
 
 1. **Review Midtrans API Documentation**: Begin by thoroughly reviewing the provided API documentation for the Midtrans Payment Gateway. You can access the documentation [https://docs.midtrans.com/](https://docs.midtrans.com/).
+https://docs.midtrans.com/docs/payment-overview
+https://demo.midtrans.com/
+https://docs.midtrans.com/docs/midtrans-account
 
-2. **Develop Integration Plan**: Based on the documentation, develop a comprehensive plan for integrating the Midtrans APIs into your e-commerce platform and project management system.
+3. **Develop Integration Plan**: Based on the documentation, develop a comprehensive plan for integrating the Midtrans APIs into your e-commerce platform and project management system.
 
-3. **Consider Pros, Cons, and Considerations**: Evaluate the pros and cons of each Midtrans API integration, considering factors such as security, reliability, scalability, and ease of implementation. Take note of any specific considerations or challenges associated with each integration.
+4. **Consider Pros, Cons, and Considerations**: Evaluate the pros and cons of each Midtrans API integration, considering factors such as security, reliability, scalability, and ease of implementation. Take note of any specific considerations or challenges associated with each integration.
 
-4. **Prepare Integration Strategy Report**: Prepare a detailed report outlining your integration strategy. Include steps for implementing each Midtrans API, potential challenges, and proposed solutions or mitigation strategies.
+5. **Prepare Integration Strategy Report**: Prepare a detailed report outlining your integration strategy. Include steps for implementing each Midtrans API, potential challenges, and proposed solutions or mitigation strategies.
 
-5. **Submit Report**: Submit your integration strategy report along with any questions or clarifications you may have regarding the integration process.
+6. **Submit Report**: Submit your integration strategy report along with any questions or clarifications you may have regarding the integration process.
 
 ## Requirements
 
